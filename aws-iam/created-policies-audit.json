@@ -1,0 +1,28 @@
+{
+    "Policies": [
+        {
+            "PolicyName": "DevOps-S3-ReadOnly-GUI",
+            "PolicyId": "ANPAUA623JTW5IZE4BLHT",
+            "Arn": "arn:aws:iam::276947487981:policy/DevOps-S3-ReadOnly-GUI",
+            "Path": "/",
+            "DefaultVersionId": "v1",
+            "AttachmentCount": 1,
+            "PermissionsBoundaryUsageCount": 0,
+            "IsAttachable": true,
+            "CreateDate": "2026-11-24T15:12:41+00:00",
+            "UpdateDate": "2026-11-24T15:12:41+00:00"
+        },
+        {
+            "PolicyName": "DevOps-S3-ReadOnly-Policy",
+            "PolicyId": "ANPAUA623JTW5MXQKMHHC",
+            "Arn": "arn:aws:iam::276947487981:policy/DevOps-S3-ReadOnly-Policy",
+            "Path": "/",
+            "DefaultVersionId": "v1",
+            "AttachmentCount": 1,
+            "PermissionsBoundaryUsageCount": 0,
+            "IsAttachable": true,
+            "CreateDate": "2026-11-24T14:47:38+00:00",
+            "UpdateDate": "2026-11-24T14:47:38+00:00"
+        }
+    ]
+}

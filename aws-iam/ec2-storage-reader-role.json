@@ -1,0 +1,24 @@
+{
+    "Role": {
+        "Path": "/",
+        "RoleName": "DevOps-EC2-Storage-Reader-GUI",
+        "RoleId": "AROAUA623JTWUDJWYXXT2",
+        "Arn": "arn:aws:iam::276947487981:role/DevOps-EC2-Storage-Reader-GUI",
+        "CreateDate": "2026-11-24T15:13:49+00:00",
+        "AssumeRolePolicyDocument": {
+            "Version": "2012-10-17",
+            "Statement": [
+                {
+                    "Effect": "Allow",
+                    "Principal": {
+                        "Service": "ec2.amazonaws.com"
+                    },
+                    "Action": "sts:AssumeRole"
+                }
+            ]
+        },
+        "Description": "Allows EC2 instances to call AWS services on your behalf.",
+        "MaxSessionDuration": 3600,
+        "RoleLastUsed": {}
+    }
+}
